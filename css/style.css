@@ -52,13 +52,14 @@ main{
 }
 
 #landing-image{
-    background: url(../img/photography.jpg);
+    background: url(../img/canon.jfif);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    height: 100vh;
-    flex: 0 1 60vw;
+    height: 50vh;
+    
     margin: 0;
+
 }
 
 .btn{
